@@ -1,0 +1,5 @@
+Convert_GB2312_to_UTF-8.spec
+build/
+dist/
+venv/
+__pycache__/
